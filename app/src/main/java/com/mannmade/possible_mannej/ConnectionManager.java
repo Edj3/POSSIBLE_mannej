@@ -8,6 +8,8 @@ import java.net.URL;
 
 /**
  * Created by Mannb3ast on 01/20/2016.
+ *
+ * Singleton to make it accessible whenever needed
  */
 public class ConnectionManager {
     private static ConnectionManager mInstance = null;
